@@ -1,0 +1,36 @@
+
+nav {
+    background-color: black;
+    padding: 1rem; 
+  }
+  
+
+  nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+  
+  nav .logo {
+    font-size: 1.125rem; 
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+  }
+  
+
+  nav .nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+  }
+  
+  
+  nav .nav-links a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  

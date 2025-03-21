@@ -1,0 +1,26 @@
+
+.volunteer-container {
+    padding: 20px;
+    background-color: #eff7ff;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  .volunteer-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .volunteer-container li {
+    padding: 10px;
+    margin: 5px 0;
+    border-bottom: 1px dashed #ccc;
+  }
+  
+  .volunteer-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
